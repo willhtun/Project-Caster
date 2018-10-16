@@ -1,0 +1,1106 @@
+fileFormatVersion: 2
+guid: e874a652f19df5e4e984ddb9f683ff90
+timeCreated: 1503209430
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemyChargeBar_0
+    21300002: enemyChargeBar_1
+    21300004: enemyChargeBar_2
+    21300006: enemyChargeBar_3
+    21300008: enemyChargeBar_4
+    21300010: enemyChargeBar_5
+    21300012: enemyChargeBar_6
+    21300014: enemyChargeBar_7
+    21300016: enemyChargeBar_8
+    21300018: enemyChargeBar_9
+    21300020: enemyChargeBar_10
+    21300022: enemyChargeBar_11
+    21300024: enemyChargeBar_12
+    21300026: enemyChargeBar_13
+    21300028: enemyChargeBar_14
+    21300030: enemyChargeBar_15
+    21300032: enemyChargeBar_16
+    21300034: enemyChargeBar_17
+    21300036: enemyChargeBar_18
+    21300038: enemyChargeBar_19
+    21300040: enemyChargeBar_20
+    21300042: enemyChargeBar_21
+    21300044: enemyChargeBar_22
+    21300046: enemyChargeBar_23
+    21300048: enemyChargeBar_24
+    21300050: enemyChargeBar_25
+    21300052: enemyChargeBar_26
+    21300054: enemyChargeBar_27
+    21300056: enemyChargeBar_28
+    21300058: enemyChargeBar_29
+    21300060: enemyChargeBar_30
+    21300062: enemyChargeBar_31
+    21300064: enemyChargeBar_32
+    21300066: enemyChargeBar_33
+    21300068: enemyChargeBar_34
+    21300070: enemyChargeBar_35
+    21300072: enemyChargeBar_36
+    21300074: enemyChargeBar_37
+    21300076: enemyChargeBar_38
+    21300078: enemyChargeBar_39
+    21300080: enemyChargeBar_40
+    21300082: enemyChargeBar_41
+    21300084: enemyChargeBar_42
+    21300086: enemyChargeBar_43
+    21300088: enemyChargeBar_44
+    21300090: enemyChargeBar_45
+    21300092: enemyChargeBar_46
+    21300094: enemyChargeBar_47
+    21300096: enemyChargeBar_48
+    21300098: enemyChargeBar_49
+    21300100: enemyChargeBar_50
+    21300102: enemyChargeBar_51
+    21300104: enemyChargeBar_52
+    21300106: enemyChargeBar_53
+    21300108: enemyChargeBar_54
+    21300110: enemyChargeBar_55
+    21300112: enemyChargeBar_56
+    21300114: enemyChargeBar_57
+    21300116: enemyChargeBar_58
+    21300118: enemyChargeBar_59
+    21300120: enemyChargeBar_60
+    21300122: enemyChargeBar_61
+    21300124: enemyChargeBar_62
+    21300126: enemyChargeBar_63
+    21300128: enemyChargeBar_64
+    21300130: enemyChargeBar_65
+    21300132: enemyChargeBar_66
+    21300134: enemyChargeBar_67
+    21300136: enemyChargeBar_68
+    21300138: enemyChargeBar_69
+    21300140: enemyChargeBar_70
+    21300142: enemyChargeBar_71
+    21300144: enemyChargeBar_72
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyChargeBar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 490
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 490
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 490
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 490
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 455
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 455
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 455
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 455
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 420
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 420
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 420
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 420
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 385
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 385
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_18
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 385
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 385
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 350
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 350
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 350
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 350
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 315
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 315
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 315
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 315
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_31
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_34
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 280
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 245
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 245
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 245
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 245
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 210
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 175
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 175
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 175
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_49
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 175
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_53
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 140
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_54
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 140
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_56
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 105
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 105
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_58
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 105
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_59
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 105
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 70
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 35
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_67
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_68
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 35
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_69
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 35
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_71
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemyChargeBar_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 140
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
